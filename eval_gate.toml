@@ -1,0 +1,5 @@
+[canonical]
+# Initial v4 gates. Recalibrate after 2-3 stable Canonical releases.
+min_task_success = 0.60
+min_policy_compliance = 0.90
+min_observed_pass_3 = 0.50

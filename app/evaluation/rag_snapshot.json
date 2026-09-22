@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "knowledge-v1",
+  "frozen_at": "2026-09-02T01:24:56+08:00",
+  "rag_backend": "numpy",
+  "embedding_model": "text-embedding-v4",
+  "knowledge_dir": "app/agent/rag/knowledge",
+  "index_path": "app/sessions/kb_index.json",
+  "index_present": true,
+  "sha256": "04ab5624ac17778aa7ceb1758220b568c65c52ca8dc93829d0360c012d850050"
+}
